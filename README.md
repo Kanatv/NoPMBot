@@ -20,7 +20,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 * `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 
 * `APP_ID`
-* `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
+* `API_HASH`: Get these two valueuggggggues from [my.telegram.org/apps](https://my.telegram.org/apps).
   * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
 
 * `AUTH_USERS`:

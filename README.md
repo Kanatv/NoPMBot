@@ -32,7 +32,7 @@ You can add multiple IDs seperated by space.
 #### Optional Environment Variables
 
 * `TG_BOT_WORKERS`: Number of workers to use. 4 is the recommended (and default) amount, but your experience may vary.
- __Note__ that going crazy with more workers won't necessarily speed up your bot, given the amount of sql data accesses, and the way python asynchronous calls work.
+ __Note__ that going crazy with more workeljjs won't necessarily speed up your bot, given the amount of sql data accesses, and the way python asynchronous calls work.
 
 * `START_OTHER_USERS_TEXT`: The message that your bot users would see on sending /start message.
 

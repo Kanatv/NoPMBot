@@ -26,7 +26,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 * `AUTH_USERS`:
 Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
 You can add multiple IDs seperated by space.
-
+hjjjjk
 * `DATABASE_URL`: ~~if you are using Heroku, this value is automatically filled by the Postgres Plugin.~~ if you are not using Heroku, Read the guide on how to Install Database?, below.
 
 #### Optional Environment Variables
